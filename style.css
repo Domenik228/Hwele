@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: blue; 
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  #nameDisplay {
+    color: yellow; 
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
